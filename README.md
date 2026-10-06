@@ -1,5 +1,8 @@
 # Cube Creator X Studio
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/55c18486-6573-41bb-a730-df7e7976c32b" />
+
+
 **[日本語](#日本語) | [English](#english)**
 
 ---
